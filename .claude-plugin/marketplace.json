@@ -1,0 +1,18 @@
+{
+  "name": "pinetech-wabot",
+  "owner": {
+    "name": "Pinetech IT Solutions",
+    "email": "hello@wabot.shop"
+  },
+  "metadata": {
+    "description": "Wabot WhatsApp plugin for Claude",
+    "pluginRoot": "./"
+  },
+  "plugins": [
+    {
+      "name": "wabot",
+      "source": "./",
+      "description": "Send WhatsApp messages, manage templates and contacts, and read conversations on your Wabot account."
+    }
+  ]
+}

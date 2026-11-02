@@ -1,0 +1,20 @@
+{
+  "name": "wabot",
+  "displayName": "Wabot WhatsApp",
+  "version": "1.0.0",
+  "description": "Send WhatsApp template and session messages, manage approved templates and contacts, and read customer conversations on your Wabot account from Claude.",
+  "author": {
+    "name": "Pinetech IT Solutions",
+    "email": "hello@wabot.shop",
+    "url": "https://wabot.shop"
+  },
+  "homepage": "https://docs.wabot.shop/integrations/claude",
+  "repository": "https://github.com/PinetechITSolutions/wabot-claude-plugin",
+  "license": "MIT",
+  "keywords": ["whatsapp", "wabot", "messaging", "templates", "customer-support", "sales", "mcp"],
+  "icon": "./logo.png",
+  "documentationUrl": "https://docs.wabot.shop/integrations/claude",
+  "supportUrl": "https://wabot.shop/contact/",
+  "privacyPolicyUrl": "https://wabot.shop/privacy-policy-2/",
+  "termsOfServiceUrl": "https://wabot.shop/terms-conditions/"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wabot": {
+      "type": "http",
+      "url": "https://api.wabot.shop/mcp"
+    }
+  }
+}
